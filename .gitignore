@@ -1,0 +1,8 @@
+Debug
+.vs
+glut.h
+glut32.dll
+glut32.lib
+G2D.sln
+G2D.vcxproj
+G2D.vcxproj.filters
